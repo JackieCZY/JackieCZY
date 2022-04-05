@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhiyi@JackieCZY
 - 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently a candidate of Master's in Business Analytics at Brandeis International Business School
-- 💞️ I’m looking forward to learn more coding techniques and projects
+- 💞️ I’m looking forward to learn more Machine Learning, Data Analytics
 - 📫 I am best reached by email: chenzhiyijacky@outlook.com
 
 <!---
